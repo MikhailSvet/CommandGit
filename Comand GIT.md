@@ -24,13 +24,9 @@
  * git diff
  
  * git log --graph 
-<<<<<<< HEAD
- * git checkot 
-=======
  
  * git checkot branch
  
->>>>>>> description
  * git reflog 
  
  * git version
